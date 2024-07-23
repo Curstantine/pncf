@@ -2,6 +2,8 @@
 --  I promise not to create any merge conflicts in this directory :)
 --
 -- See the kickstart.nvim README for more information
+vim.cmd.colorscheme 'habamax'
+
 return {
 	-- { -- You can easily change to a different colorscheme.
 	-- 	-- Change the name of the colorscheme plugin below, and then
